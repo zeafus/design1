@@ -2,27 +2,6 @@ body {
   background-color: #a0a3a0;
 }
 
-h1 {
-  color: ##70b526;
-  text-align: center;
-  font-family:helvetica, arial;
-  font-size: 50px;
-}
-
-h2 {
-  color: ##70b526;
-  text-align: center;
-  font-family:helvetica, arial;
-  font-size: 50px;
-}
-
-h3 {
-  color: ##70b526;
-  text-align: center;
-  font-family:helvetica, arial;
-  font-size: 50px;
-}
-
 p {
   font-family: helvetica, arial;
   font-size: 20px;
@@ -36,15 +15,34 @@ p {
   margin-left: 150px;
 }
 
-p {
-  border: 2px solid black;
-  outline: #878a87 solid 10px;
-  margin: auto;
-  padding: 20px;
-  text-align: center;
+.rectangle1 {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
 }
 
-p {
-  border: 2px solid #000000;
-  padding: 30px;
+.rectangle2 {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+  float: right;
+  display: inline-block;
+}
+
+.rectangle3 {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
+
+.rectangle4 {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
+}
+
+.rectangle5 {
+  height: 50px;
+  width: 100px;
+  background-color: #555;
 }
