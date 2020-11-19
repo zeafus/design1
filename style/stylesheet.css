@@ -33,8 +33,6 @@ p {
   display: inline-block;
 }
 
-
-
 .rectangle3 {
   height: 100px;
   width: 500px;
@@ -66,4 +64,8 @@ p {
 .center {
   text-align:center;
   width: 100%;
+}
+
+#content {
+  padding: 4em;
 }
