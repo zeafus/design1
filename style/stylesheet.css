@@ -42,6 +42,11 @@ p {
 }
 
 
+body {
+  background-image: image(grunge_concrete.jpg);
+
+}
+
 
 .rectangle4 {
   height: 100px;
